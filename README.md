@@ -18,7 +18,7 @@ The nice thing about strategy 1 is that the model learns to predict the question
 # Results
 Here the Results from a set of test questions I divised. For reference, I included GPT 3 Ada which has 2.7B parameters(without fine-tuning or prompting).
 
-Question: When was texas admitted to the union?
+Question: When was texas admitted to the union?\n
 Bert (66M): december march 1845 (mostly correct)
 GPT-Neo (125M): 1898-1901. (false)
 GPT-3 Ada (2.7B): texas was admitted to the union on january 6, 1907. (false)
