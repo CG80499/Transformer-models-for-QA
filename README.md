@@ -85,4 +85,4 @@ GPT-Neo (125M): 41.67%
 GPT3 (2.7B): 16.67%  
 
 # Looking Ahead
-I tested GPT-Neo (1.3B) without fine-tuning and found its baseline level of knowledge is much higher than GPT-Neo 125M. Past work has also shown larger models train quicker with fewer train data. I do not think that the compute requirements for such an endeavour would be that high as the max token size is 35 but it would be necessary to have a computer with a lot of RAM.
+I tested GPT-Neo (1.3B) without fine-tuning and found its baseline level of knowledge is much higher than GPT-Neo 125M. Past work has also shown larger models train quicker with less training data. I do not think that the compute requirements for such an endeavour would be that high as the max token size is 35 but it would be necessary to have a computer with a lot of RAM.
