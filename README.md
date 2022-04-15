@@ -59,7 +59,7 @@ Bert (66M): 1 6 day june 25 1952 ii (false)
 GPT-Neo (125M): 1928-1929 and (false)  
 GPT-3 Ada (2.7B): The coronation of queen elizabeth took place on April 14, 1499.(false)  
 
-Question: What is the largest country in the world?
+Question: What is the largest country in the world?   
 Bert (66M): russia (correct)  
 GPT-Neo (125M): Russia and China, with the (mostly correct)  
 GPT-3 Ada (2.7B): There is no definitive answer to this question as there are a variety of opinions as to the largest country in the world. Some people believe that the largest country is China, while others believe that the largest country is the United States. Ultimately, the largest country in the world will be determined by the number of population points that are reached.(false)  
