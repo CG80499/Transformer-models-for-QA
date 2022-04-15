@@ -22,7 +22,7 @@ def process(q):
     return q[0].upper()+q[1:]+"?"
 for q in interesting_questions:
     response = openai.Completion.create(
-        engine="text-davinci-002",
+        engine="text-ada-001",
         prompt=process(q),
         temperature=0,
         max_tokens=32,
