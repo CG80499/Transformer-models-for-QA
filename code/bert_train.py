@@ -7,6 +7,7 @@ from tqdm import tqdm
 import transformers
 from datasets import load_dataset
 
+#Hello world
 QA_dataset = load_dataset("nq_open")
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
